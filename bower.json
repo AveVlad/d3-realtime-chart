@@ -1,0 +1,22 @@
+{
+  "name": "d3-realtime-chart",
+  "version": "0.0.0",
+  "homepage": "https://github.com/AveVlad/d3-realtime-chart",
+  "authors": [
+    "AveVlad <dev@vld.me>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io": "~1.0.6",
+    "pure": "~0.5.0",
+    "jquery": "~2.1.1",
+    "d3": "~3.4.11"
+  }
+}

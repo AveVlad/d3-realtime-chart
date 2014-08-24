@@ -1,0 +1,25 @@
+{
+  "name": "d3-realtime-chart",
+  "version": "0.0.1",
+  "description": "d3-realtime-chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AveVlad/d3-realtime-chart.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AveVlad/d3-realtime-chart/issues"
+  },
+  "homepage": "https://github.com/AveVlad/d3-realtime-chart",
+  "dependencies": {
+    "express": "^4.8.5",
+    "jquery": "^2.1.1",
+    "open": "0.0.5",
+    "socket.io": "^1.0.6"
+  }
+}
