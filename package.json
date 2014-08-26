@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/AveVlad/d3-realtime-chart",
   "dependencies": {
+    "coffee-script": "^1.7.1",
     "express": "^4.8.5",
-    "jquery": "^2.1.1",
+    "gulp": "^3.8.7",
+    "gulp-connect": "^2.0.6",
+    "gulp-util": "^3.0.0",
     "open": "0.0.5",
     "socket.io": "^1.0.6"
   }
