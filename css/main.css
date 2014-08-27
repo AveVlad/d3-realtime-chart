@@ -2,40 +2,8 @@
     width: 800px;
     margin: 100px auto;
 }
-
-svg {
-    font: 10px sans-serif;
-}
-
 .line {
-    fill: steelblue;
-    stroke: #4c9be4;
-    stroke-width: 2.5px;
+    fill: rgba(15, 139, 205, 0.15);
+    stroke: #0f8bcd;
+    stroke-width: 2px;
 }
-
-.axis path,
-.axis line {
-    fill: none;
-    stroke: none;
-    shape-rendering: crispEdges;
-}
-.axis .tick {
-    fill: #c8c8c8;
-}
-.x {
-    display: none;
-}
-.x .tick {
-    display: none;
-}
-
-/*.axis path,*/
-/*.axis line {*/
-    /*fill: none;*/
-    /*stroke: #000;*/
-    /*shape-rendering: crispEdges;*/
-/*}*/
-
-/*.line {*/
-    /*fill: #58b461;*/
-/*}*/
